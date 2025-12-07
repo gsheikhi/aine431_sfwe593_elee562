@@ -17,7 +17,7 @@ All experiments use 5-fold cross-validation with hyperparameter tuning on a vali
 ## Quick Start
 Right-click or Ctrl/⌘-click to open in a new tab.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsheikhi/aine431_sfwe593_elee562/blob/main/ml_term_project/ml_term_project.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/gsheikhi/aine431_sfwe593_elee562/blob/main/ml_term_project.ipynb)
 
 Then: `File → Save a copy in Drive`
 
